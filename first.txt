@@ -4,3 +4,4 @@ Git add
 Git status
 追加文字列
 Git status
+Git diff
